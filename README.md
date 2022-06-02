@@ -17,8 +17,8 @@
   Комментарии - комментарий к экперименту
   
 В файле Index_Middle.txt
-  Data1 - средний палец (Middle)
-  Data2 - указательный палец (Index)
+  Data1 - средний палец (Middle)/n
+  Data2 - указательный палец (Index)/n
 
 В файле Ring_Little.txt
   Data1 - безымянный палец(Ring)
