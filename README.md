@@ -17,28 +17,19 @@
   Комментарии - комментарий к экперименту
  
  ## Данные в txt файлах
-|          Index_Middle.txt                  |
-||:----------------:|:---------------------:||
-||Data1             | средний палец (Middle)||
-||Data2             | указательный палец    || 
+###Index_Middle.txt
+|:-------:|:--------------------------------:|
+|Data1    |средний палец (Middle)           |
+|Data2    |указательный палец (index finger)| 
  
-В файле Index_Middle.txt
-  Data1 - средний палец (Middle)/n
-  Data2 - указательный палец (Index)/n
+###Ring_Little.txt
+|:-------:|:--------------------------------:|
+|Data1    |безымянный палец(Ring)|
+|Data2    |мизинец (Little)| 
 
-В файле Ring_Little.txt
-  Data1 - безымянный палец(Ring)
-  Data2 - мизинец (Little)
-
-Thumb.txt
-  Data1 - большой палец (Thumb)
+###Thumb.txt
+|:-------:|:--------------------------------:|
+|Data1    |большой палец (Thumb)             |
 
 
-|             |          Grouping           ||
-First Header  | Second Header | Third Header |
- ------------ | :-----------: | -----------: |
-Content       |          *Long Cell*        ||
-Content       |   **Cell**    |         Cell |
 
-New section   |     More      |         Data |
-And more      | With an escaped '\|'         ||  
